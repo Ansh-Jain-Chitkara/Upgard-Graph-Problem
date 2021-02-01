@@ -1,5 +1,6 @@
 # Upgard-Graph-Problem
 PART A
+
 You are in charge of the security of Prime Minister Modi, who is going on a tour across India. Prime Minister tells you the name of the next city he wants to go, and you need to inform him whether it is possible to reach that city or not from a particular city, if it is possible, return the route between the cities.
 
  
@@ -67,6 +68,7 @@ Mumbai -> Pune -> Indore
 
 
 PART B
+
 Your next task is to ensure that the path taken by the prime minister is as safe as possible. You send out your team members to explore all the roads and they report values from 1-100 depending on how unsafe the road is. With this data, you need to return the safest route that should be taken by the prime minister, where the overall safety of the path is defined by the sum of the safeties of the roads.
 
  
